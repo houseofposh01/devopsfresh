@@ -1,2 +1,3 @@
 print ('lambo')
+print ('machala')
 
